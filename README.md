@@ -13,4 +13,4 @@
 <li>build presentation containing insights and KPIs from the data </li>
 <li>presentation.</li>
 </ol>
-<p>Some of the created / used data files were much to big to upload them on Github. Sorry.</p>
+<p>Some of the created / used CSV files were much to big to upload them on Github. Sorry.</p>
